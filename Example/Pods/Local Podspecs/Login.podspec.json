@@ -1,0 +1,22 @@
+{
+  "name": "Login",
+  "version": "0.1.0",
+  "summary": "A short description of Login.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mayumi/Login",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mayumi": "mayumi.arakakisiccha@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Mayumi/Login.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Login/Classes/**/*"
+}
